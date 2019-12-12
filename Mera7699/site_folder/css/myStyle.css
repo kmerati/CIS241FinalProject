@@ -1,0 +1,182 @@
+/*Stylsheet for Kevan's Website*/
+
+
+nav
+{
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+
+	background-color: beige;
+
+	text-align: center;
+
+	
+		
+
+
+
+}
+
+#head
+{
+text-align: center;
+
+background-color: black;
+
+}
+
+
+a
+{
+	color:black;
+	
+}
+
+
+article
+	{
+		background-color: white;
+	margin-right:30%;
+	margin-left:30%;
+display: block;
+max-width:600px;
+border-bottom: 4px solid black;
+
+
+}
+
+article.articlefloatright
+{
+	float:right;
+	background-color: white;
+	margin-left:30%;
+margin-right: 30%;
+display: block;
+border-bottom: 4px solid black;
+}
+
+article.articlenofloat
+{
+		background-color: white;
+	margin-left:30%;
+margin-right: 30%;
+display: block;
+
+border-bottom: 4px solid black;	
+}
+
+
+body
+{
+	background-color: beige;
+	
+}
+
+p
+{
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+
+}
+
+p.margin
+
+{
+margin-right: 20px;
+margin-left: 20px;	
+text-align:left;
+font-size:14px;
+}
+
+
+p.moveright
+{
+	float: right;
+}
+
+footer
+{
+	width: 100%;
+	text-align: center;
+	font-size: 12px;
+	
+}
+
+
+img.floatright
+{
+float:right;
+padding-right:20px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-top: 5px;
+
+} 
+
+
+
+h1
+{
+	text-align: center;
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+	font-size: 20px;
+}
+
+
+thead
+{
+		text-align: center;
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+	font-size: 30px;
+}
+
+tr{
+		text-align: left;
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+	font-size: 12px;
+	border: 1px solid black;
+}
+
+tr.header{
+	text-align: center;
+	font-family: Arial, Helvetica, Geneva, Swiss, sans-serif;
+	font-size: 14px;
+	font-weight:bold;
+	background-color:black;
+	color:beige;
+}
+
+#rpad
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom:10px;
+	padding-top:0px;
+}
+
+.floatleft
+{
+	float: left;
+	padding-right:5px;
+padding-bottom: 5px;
+padding-left: 5px;
+padding-top: 5px;
+}
+
+
+p.rescenter
+
+{
+margin-right: 20px;
+margin-left: 20px;	
+text-align:center;
+font-size:14px;
+}
+
+td{
+	border: 1px solid black;
+	text-align: left;
+	padding-left: 5px;
+	padding-right:5px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	
+}
